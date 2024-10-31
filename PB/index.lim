@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <tag>1</tag>
+        <recursos>Recursos</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>FFFFFF</corfondo>
+        <corbanda>FFFFFF</corbanda>
+        <cornavega>FFFFFF</cornavega>
+        <cormensaxes>00FF00</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Artefactos tecnológicos</titulo>
+        <subtitulo>Uso y apropiación de la T&I</subtitulo>
+        <autor>Daniel Galezo Acuña</autor>
+        <iden>1</iden>
+        <logo>Logo.jpeg</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>1</desordenar>
+         <sonido nivel="100" modo="1" >Toby_Fox_-_Megalovania.mp3</sonido>
+        <correcto son="goodresult-82807.mp3" modo="1" >¡Muy Bien!</correcto>
+        <incorrecto son="Minecraft-death-sound.mp3" modo="1" >¡Sigue intentandolo!</incorrecto>
+        <caracteres>1</caracteres>
+        <liga ir="https://www.youtube.com/watch?v=glYxllabV64">Bienvenido</liga>
+        <liga ir="https://www.youtube.com/watch?v=Y0swUzOutTk">Contenido</liga>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="342" posy="183">As_i_nos_saludamos.mp4</imaxe>
+              <texto posx="50" posy="50" ancho="199" largo="200"><![CDATA[
+<p align="center">
+<font color="#080000" face="Arial" size="32">¡Hola Niños!<br>
+</font></p>
+]]></texto>
+              <ctexto>FFFFFF</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>21</tipo>
+<modo>2</modo>
+              <galeria son="blender6-105590.mp3" texto="¿De dónde proviene ese sonido?">De_d_onde_proviene_ese_sonido.jpg</galeria>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <imaxe posx="328" posy="260">La_Tecnolog_ia_-_Canci_on_para_ninnos_-_123_Andr_es_-_Ciencia_y_naturaleza.mp4</imaxe>
+              <texto posx="50" posy="50" ancho="200" largo="200"><![CDATA[
+<p align="center">
+<font color="#080000" face="Arial" size="32">¿Que son los artefactos tecnologicos?<br>
+</font></p>
+<p align="left">
+<font color="#080000" face="Arial" size="32">Los artefactos tecnológicos son dispositivos, aparatos creados por el hombre que ayudan al desarrollo de nuestras actividades diarias y a la creación de nuevas clases de inventos en la tecnología.<br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>FFFFFF</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="4" >
+              <tipo>7</tipo>
+              <cabeceira>Pon cada objeto en la casilla coorespondiente</cabeceira>
+              <caixa1>Artefacto</caixa1>
+              <caixa2>Funcion</caixa2>
+              <mini caixa="1">Licuadora.jpg</mini>
+              <mini caixa="2">Jugos.png</mini>
+              <mini caixa="1">Plancha.jpg</mini>
+              <mini caixa="2">Ropa_arrugada.jpeg</mini>
+              <mini caixa="1">Lavadora.jpg</mini>
+              <mini caixa="2">Ropa_sucia.jpeg</mini>
+              <cfondo>FFFFFF</cfondo>
+              <cadro>1</cadro>
+              <modo></modo>
+        </paxina>
+        <paxina id="5" >
+              <tipo>39</tipo>
+              <cabeceira>¿Recuerdas la funciòn de cada artefacto? ¡Comienza!</cabeceira>
+              <son auto="1">Toby_Fox_-_Megalovania.mp3</son>
+              <modo>1</modo>
+            <parellas imaxe="Jugos.png" texto="">Licuadora.jpg</parellas>
+              <parellas imaxe="Lo_que_guarda.jpg" texto="">Nevera.jpg</parellas>
+              <parellas imaxe="Secadora_de_pelo_1.png" texto="">Secadora_de_pelo.png</parellas>
+              <parellas imaxe="Lasanna.jpeg" texto="">Microndas.png</parellas>
+              <parellas imaxe="Ropa_sucia.jpeg" texto="">Lavadora.jpg</parellas>
+              <parellas imaxe="Ropa_arrugada.jpeg" texto="">Plancha.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+              <tempo>90</tempo>
+        </paxina>
+        <paxina id="6" >
+              <tipo>4</tipo>
+              <cabeceira>¡Vamossss!</cabeceira>
+              <son auto="1">Undertale_OST_-_059_Spider_Dance.mp3</son>
+              <modo>2</modo>
+              <sopa enun="Laptop.jpg">Laptop</sopa>
+              <sopa enun="Celular.png">Celular</sopa>
+              <sopa enun="Impresora.png">Impresora</sopa>
+              <sopa enun="Linterna.jpeg">Linterna</sopa>
+              <sopa enun="TV.jpeg">Televisor</sopa>
+              <sopa enun="Tablet.jpg">Tablet</sopa>
+              <sopa enun="Computador.jpg">Computador</sopa>
+              <sopa enun="Lampara.jpg">Lampara</sopa>
+              <enunciado>1</enunciado>
+              <colorea>1</colorea>
+              <cadro>1</cadro>
+              <fondo>ABCDEFGHIJKLMNÑOPQRSTUVWXYZABCDEFGHIJKLM</fondo>
+        </paxina>
+        <paxina id="7" >
+              <tipo>2</tipo>
+              <cabeceira>¿Qué artefacto tecnológico utilizaste durante la actividad?</cabeceira>
+              <texto posx="50" posy="50" ancho="200" largo="200"><![CDATA[
+<p align="center">
+<font color="#080000" face="Arial" size="54">¡Muchas gracias por participar!<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+    </libro>
+</lim>
